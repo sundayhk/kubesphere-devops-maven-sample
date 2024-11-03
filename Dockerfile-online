@@ -1,4 +1,4 @@
-FROM openjdk:8
+FROM harbor.sundayhk.com/library/openjdk:8
 
 WORKDIR /home
 
